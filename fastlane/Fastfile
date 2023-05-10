@@ -15,5 +15,5 @@
 
 
 lane :build do
-  build_app(scheme: "Release")
+  build_app(scheme: "WHE")
 end
